@@ -9,16 +9,13 @@
 [![GitHub license](https://img.shields.io/github/license/gabrielloppes/IgniteTodoManager?style=for-the-badge)](https://github.com/gabrielloppes/IgniteTodoManager)
 <!-- ts -->
 ## Tabela de conteúdos
-* [Sobre](#sobre)
-* [Funcionalidades](#funcionalidades)
-  * [Testes HTTP](#testes-http)
-* [Tecnologias Utilizadas](#tecnologias-utilizadas)
-* [Como Usar](#como-usar)
-  * [Pré-requisitos](#pré-requisitos)
-  * [Clonar o repositório](#clonar-o-repositório)
-  * [Rodando a aplicação](#rodando-a-aplicação)
-* [Testes](#testes)
-  * [Suíte de testes](#suíte-de-testes)
+- [IgniteTodoManager](#ignitetodomanager)
+  - [Tabela de conteúdos](#tabela-de-conteúdos)
+  - [Sobre](#sobre)
+  - [Funcionalidades](#funcionalidades)
+  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+  - [Como Usar](#como-usar)
+  - [Testes](#testes)
 <!-- te -->
 
 ## Sobre
@@ -32,8 +29,11 @@ IgniteTodoManager é a primeira aplicação em NodeJS no bootcampo [Ignite](http
 - [x] Marcar uma tarefa como feita
 - [x] Deletar uma tarefa
 
-* ## Testes HTTP
-  Para testar as requisições HTTP, utilize [esse](arquivoJSON) arquivo JSON, importe no seu [Insomnia](https://insomnia.rest/download), [Postman](https://www.postman.com/) ou em seu cliente HTTP favorito
+
+
+
+* ## Testes de Requisições HTTP
+  Para testar as requisições HTTP, utilize [esse](https://github.com/gabrielloppes/IgniteTodoManager/blob/main/.docs/Insomnia_2021-12-01.json) arquivo JSON, importe no seu [Insomnia](https://insomnia.rest/download), [Postman](https://www.postman.com/) ou em seu cliente HTTP favorito
 ## Tecnologias Utilizadas
 Neste projeto foram utilizadas as seguintes tecnologias
 
