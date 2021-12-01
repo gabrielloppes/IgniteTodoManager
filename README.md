@@ -9,13 +9,16 @@
 [![GitHub license](https://img.shields.io/github/license/gabrielloppes/IgniteTodoManager?style=for-the-badge)](https://github.com/gabrielloppes/IgniteTodoManager)
 <!-- ts -->
 ## Tabela de conteúdos
-- [IgniteTodoManager](#ignitetodomanager)
-  - [Tabela de conteúdos](#tabela-de-conteúdos)
-  - [Sobre](#sobre)
-  - [Funcionalidades](#funcionalidades)
-  - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-  - [Como Usar](#como-usar)
-  - [Testes](#testes)
+* [Sobre](#sobre)
+* [Funcionalidades](#funcionalidades)
+  * [Testes de Requisições HTTP](#testes-de-requisições-http)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas)
+* [Como Usar](#como-usar)
+  * [Pré-requisitos](#pré-requisitos)
+  * [Clonar o repositório](#clonar-o-repositório)
+  * [Rodando a aplicação](#rodando-a-aplicação)
+* [Testes](#testes)
+  * [Suíte de testes](#suíte-de-testes)
 <!-- te -->
 
 ## Sobre
@@ -84,7 +87,7 @@ Caso você queira ver os testes com mais detalhes insira o seguinte comando no s
 ```bash
 yarn test --verbose
 ```
-* ## Suíte de teste
+* ## Suíte de testes
   <details>
     <summary>Todos</summary>
     
