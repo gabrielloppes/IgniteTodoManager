@@ -10,7 +10,7 @@
 <!-- ts -->
 ## Tabela de conteúdos
 * [Sobre](#sobre)
-* [Funcionalidades](#funcionalidades)
+* [Funcionalidades](#funcionalidades-gear)
   * [Testes de Requisições HTTP](#testes-de-requisições-http)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Como Usar](#como-usar)
@@ -24,7 +24,7 @@
 ## Sobre
 IgniteTodoManager é a primeira aplicação em NodeJS no bootcampo [Ignite](https://www.rocketseat.com.br/ignite) da [Rocketseat](https://www.rocketseat.com.br), essa aplicação tem como objetivo, fazer uma introdução ao mundo do [NodeJS](https://nodejs.org/en/) e suas possibilidades
 
-## Funcionalidades
+## Funcionalidades :gear:
 - [x] Cadastro de um novo usuário
 - [x] Listar os TODO's de um usuário
 - [x] Criar um novo TODO
