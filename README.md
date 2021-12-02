@@ -91,19 +91,19 @@ yarn test --verbose
   <details>
     <summary>Todos</summary>
     
-    :heavy_check_mark: should be able to list all user's todo
+    ✓ should be able to list all user's todo
 
-    :heavy_check_mark: should be able to create a new todo
+    ✓ should be able to create a new todo
 
-    :heavy_check_mark: should be able to update a todo
+    ✓ should be able to update a todo
 
-    :heavy_check_mark: should not be able to update a non existing todo
+    ✓ should not be able to update a non existing todo
 
-    :heavy_check_mark: should be able to mark a todo as done
+    ✓ should be able to mark a todo as done
 
-    :heavy_check_mark: should not be able to mark a non existing todo as done
+    ✓ should not be able to mark a non existing todo as done
 
-    :heavy_check_mark: should be able to delete a todo
+    ✓ should be able to delete a todo
 
-    :heavy_check_mark: should not be able to delete a non existing todo
+    ✓ should not be able to delete a non existing todo
   </details>
