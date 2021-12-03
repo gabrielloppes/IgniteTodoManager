@@ -8,20 +8,20 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/gabrielloppes/IgniteTodoManager?style=for-the-badge)
 [![GitHub license](https://img.shields.io/github/license/gabrielloppes/IgniteTodoManager?style=for-the-badge)](https://github.com/gabrielloppes/IgniteTodoManager)
 <!-- ts -->
-## Tabela de conteúdos
-* [Sobre](#sobre)
+## Tabela de conteúdos :clipboard:
+* [Sobre](#sobre-speech_balloon)
 * [Funcionalidades](#funcionalidades-gear)
   * [Testes de Requisições HTTP](#testes-de-requisições-http)
-* [Tecnologias Utilizadas](#tecnologias-utilizadas)
-* [Como Usar](#como-usar)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas-desktop_computer)
+* [Como Usar](#como-usar-wrench)
   * [Pré-requisitos](#pré-requisitos)
   * [Clonar o repositório](#clonar-o-repositório)
   * [Rodando a aplicação](#rodando-a-aplicação)
-* [Testes](#testes)
+* [Testes](#testes-test_tube)
   * [Suíte de testes](#suíte-de-testes)
 <!-- te -->
 
-## Sobre
+## Sobre :speech_balloon:
 IgniteTodoManager é a primeira aplicação em NodeJS no bootcampo [Ignite](https://www.rocketseat.com.br/ignite) da [Rocketseat](https://www.rocketseat.com.br), essa aplicação tem como objetivo, fazer uma introdução ao mundo do [NodeJS](https://nodejs.org/en/) e suas possibilidades
 
 ## Funcionalidades :gear:
@@ -32,18 +32,15 @@ IgniteTodoManager é a primeira aplicação em NodeJS no bootcampo [Ignite](http
 - [x] Marcar uma tarefa como feita
 - [x] Deletar uma tarefa
 
-
-
-
 * ## Testes de Requisições HTTP
   Para testar as requisições HTTP, utilize [esse](https://github.com/gabrielloppes/IgniteTodoManager/blob/main/.docs/Insomnia_2021-12-01.json) arquivo JSON, importe no seu [Insomnia](https://insomnia.rest/download), [Postman](https://www.postman.com/) ou em seu cliente HTTP favorito
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas :desktop_computer:	
 Neste projeto foram utilizadas as seguintes tecnologias
 
 | NodeJS | Express | Jest | SuperTest |
 |--------|---------|------|-----------|
 
-## Como Usar
+## Como Usar :wrench:	
 * ## Pré-requisitos
   Para rodar esse projeto voê deverá ter o [NodeJS](https://nodejs.org/en/) instalado em sua máquina
 * ## Clonar o repositório
@@ -77,7 +74,7 @@ Neste projeto foram utilizadas as seguintes tecnologias
   yarn dev
   ```
 
-## Testes
+## Testes :test_tube:
 Para rodas os testes, abra o seu terminal ou use o terminal integrado do seu editor de código e insira o comando
 ```bash
 yarn test
